@@ -6,7 +6,7 @@ Thanks
 
 Download ffmpeg.sh to your Raspberry Pi,use sudo tu run,
 
-wget https://github.com/FreeLinuxUser/Raspberry-Pi-3-ffmpeg-for-youtube-dl/blob/master/ffmpeg.sh
+git clone https://github.com/FreeLinuxUser/Raspberry-Pi-3-ffmpeg-for-youtube-dl/
 
 chmod +x ffmpeg.sh
 
